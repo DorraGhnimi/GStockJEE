@@ -1,0 +1,9 @@
+1.***********************
+lorsque je modifie  file.jsp ou file.java il suffit de save code and refresh browser
+mais quand je modifie web.xml ou les annotations (@WebServlet) il faut demarrer le serveur parce que le web.xml est lu au demarrage du serveur
+2*********************
+
+3*****************
+
+
+4***************
